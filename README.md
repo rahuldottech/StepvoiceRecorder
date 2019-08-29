@@ -1,5 +1,12 @@
 # StepvoiceRecorder
 
+------
+### Rahul's Edit:
+Check the [releases](https://github.com/rahuldottech/StepvoiceRecorder/releases) page for the original signed binary from stepvoice.com. `2.1.1.415` was the latest version ever released on the site. I'm not going to make any changes to the codebase, I really don't have the time to take on additional projects. This repo exists mostly for archival purposes, and to distribute the last verison ever released, which I was unable to find elsewhere on the internet. I definitely find this tool very handy.
+
+------
+
+
 Copyright (C) 2004-2016 Andrey Firsov. All rights reserved.
 For conditions of distribution and use, see LICENSE.TXT.
 
